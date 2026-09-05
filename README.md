@@ -1,8 +1,8 @@
-# 🌍 Salary Converter — Compare Salaries Across 3,400+ Neighborhoods
+# 🌍 Salary Converter — Compare Salaries Across 2,483 Neighborhoods
 
 **[Try it free → salary-converter.com](https://salary-converter.com)**
 
-A free tool that compares salaries across **3,400+ neighborhoods** in **182 cities worldwide** — factoring in taxes, cost of living, and exchange rates.
+A free tool that compares salaries across **2,483 neighborhoods** in **113 cities worldwide** — factoring in taxes, cost of living, and exchange rates.
 
 ## The Problem
 
@@ -12,7 +12,7 @@ Salary Converter solves this by comparing at the **neighborhood level**.
 
 ## Features
 
-- **Neighborhood-level comparisons** — 3,400+ neighborhoods across 182 cities
+- **Neighborhood-level comparisons** — 2,483 neighborhoods across 113 cities
 - **Tax calculations** — using OECD data (federal, state/provincial, local)
 - **Cost of living** — from Numbeo and Expatistan, weighted by neighborhood
 - **Exchange rates** — ECB data for international comparisons
@@ -44,7 +44,7 @@ All comparisons use a **NYC baseline (COLI = 100)** for consistency.
 
 Built by [Jason Iliou](https://github.com/jay7gr) — originally to solve my own problem when relocating from Greece to London. I couldn't find any tool that compared neighborhoods instead of just cities, so I built one.
 
-**Free, no sign-up required, no ads.**
+**Free, no sign-up required.**
 
 👉 **[salary-converter.com](https://salary-converter.com)**
 
